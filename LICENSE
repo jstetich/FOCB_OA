@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+_____________________________________________________________________________
+NOTICE:  The software included in this package may depend on R packages licensed
+         under less permissive licenses than the MIT license. Users are
+         cautioned to confirm licensing provisions for such packages and comply
+         with any requirements.
+
+         Most data sources used in the 2020 State of the Bay report are not
+         Produced by CBEP. CBEP is not the copyright holder and cannot
+         grant useage rights to others. Much of the data has been collected and
+         released by state or federal agencies, and thus is thought to be in
+         the public domain. For other data, CBEP has been granted a
+         non-exclusive right to use data for preparation of the 2020 State of
+         the Bay Report, including data analysis; preparation of graphics and
+         summaries; and posting data online for study and non-commercial use.
+         All other rights are retained by the data providers.
