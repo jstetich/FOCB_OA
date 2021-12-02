@@ -4,8 +4,8 @@
     style="position:absolute;top:10px;right:50px;" />
     
 Friends of Casco Bay has been monitoring water quality in Casco Bay for nearly
-thirty years. in 2016, they began collecting continuous data from a monitoring
-location on Cousins ISland, including data on important acidification
+thirty years. In 2016, they began collecting continuous data from a monitoring
+location on Cousins Island, including data on important acidification
 parameters.
 
 # Statement of Purpose
@@ -41,7 +41,7 @@ review, critique, learn from, and build upon CBEP science.
 # Summary of Data Sources
 ## Primary OA Data 
 Friends of Casco Bay has been monitoring water quality in Casco Bay for nearly
-thirty years. in 2016, they began collecting continuous data from a monitoring
+thirty years. In 2016, they began collecting continuous data from a monitoring
 location on Cousins Island, including data on important acidification
 parameters.
 
